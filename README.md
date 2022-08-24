@@ -1,3 +1,6 @@
+# About this app
+This is the code I made for interview with Culture Amp
+
 # Survey front-end
 
 📕 Please review the [main README](../../README.md) for overall instructions.
